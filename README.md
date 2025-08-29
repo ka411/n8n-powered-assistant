@@ -21,3 +21,17 @@ Append new tasks with Task Name, Description, Due Date, Priority
 Search for tasks by due date
 
 Update tasks (ensuring the correct record is found first)
+
+🛠 How it Works
+
+Workflow starts when a chat message is received.
+
+The AI agent interprets the request using defined system rules.
+
+Depending on the intent:
+
+Calendar events are created, searched, or updated.
+
+Task entries are added, retrieved, or modified in Google Sheets.
+
+All dates are handled in the MM/DD/YYYY format to keep consistency.
