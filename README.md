@@ -35,3 +35,11 @@ Calendar events are created, searched, or updated.
 Task entries are added, retrieved, or modified in Google Sheets.
 
 All dates are handled in the MM/DD/YYYY format to keep consistency.
+
+📌 Use Cases
+
+Quickly add or update meetings in Google Calendar via chat.
+
+Maintain a task list in Google Sheets directly from natural conversation.
+
+Automate scheduling and task tracking without switching apps.
